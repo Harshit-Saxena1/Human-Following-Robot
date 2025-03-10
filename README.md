@@ -2,7 +2,7 @@
 This Arduino-based robot follows a human using IR sensors to detect hand movements and an ultrasonic sensor to maintain distance. It adjusts motor speed dynamically to turn and move towards the detected hand. Ideal for basic autonomous navigation and human interaction projects.
 This project implements a human-following robot using an Arduino, IR sensors, and an ultrasonic sensor. The robot detects a human hand using IR sensors and moves accordingly while maintaining a safe distance using the ultrasonic sensor.
 
-Features
+Features \n
     Follows a human by detecting hand movements using IR sensors
     Maintains a specified distance using an ultrasonic sensor
     Controls motor speed dynamically for turning and movement
